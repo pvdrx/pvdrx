@@ -15,9 +15,3 @@ Buscando sempre aprender sobre novas tecnologicas que impactam o mundo ou mudam 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/pvdrx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pvdrx-henrique" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/pvdrx"><img src="https://activity-graph.herokuapp.com/graph?username=pvdrx&bg_color=000000&color=ffffff&line=a855f7&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
