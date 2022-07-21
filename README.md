@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer Junior
 ------------
 
-studying code and doing projects focused in automations and scripts
+studying code and doing projects with focus in automations and scripts
 * 🌍  I'm based in Sao Paulo
 * ✉️  You can contact me at [pedroramosdev@proton.me](mailto:pedroramosdev@proton.me)
 * 🧠  I'm learning Python, SQL, Javascript
