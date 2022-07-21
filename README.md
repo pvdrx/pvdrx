@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pedro Henrique
 ======================================================================================================================================
 
-Data Analyst
+Software Developer Junior
 ------------
 
-studying code for 3 months and doing projects to accumulate enough experience to pass my interview
-
+studying code and doing projects focused in automations and scripts
 * 🌍  I'm based in Sao Paulo
-* ✉️  You can contact me at [jdbd@protonmail.com](mailto:jdbd@protonmail.com)
+* ✉️  You can contact me at [pedroramosdev@proton.me](mailto:pedroramosdev@proton.me)
 * 🧠  I'm learning Python, SQL, Javascript
 
 ### Skills
