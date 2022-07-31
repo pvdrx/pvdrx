@@ -1,7 +1,10 @@
-Desenvolvedor Back-end Junior
+Desenvolvedor Back-End Junior
 -----------------------------
 
 Buscando sempre aprender sobre novas tecnologicas que impactam o mundo ou mudam o jeito que as pessoas vem tecnologia no geral, quero aplicar tudo que aprendo da maneira mais eficiente visando o desenvolvimento de aplicativos e programas
+
+* 🌍  I'm based in São Paulo
+* ✉️  You can contact me at [pedroramosdev@proton.me](mailto:pedroramosdev@proton.me)
 
 ### Skills
 
@@ -14,4 +17,4 @@ Buscando sempre aprender sobre novas tecnologicas que impactam o mundo ou mudam 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/pvdrx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pvdrx-henrique" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/pvdrx-henrique" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
