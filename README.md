@@ -1,9 +1,7 @@
-Olá Eu sou o Pedro Henrique
+Hi, Im Pedro Henrique
 ---------------------------
 
-Buscando sempre aprender sobre novas tecnológicas que impactam o mundo e mudam o jeito que as pessoas enxergam tecnologia no geral, quero aplicar tudo que aprendo da maneira mais eficiente visando o desenvolvimento de aplicativos e programas. Curto bastante a área de back-end e estudo bastante no meu tempo livre sobre ciência de dados
-
-* 🌍  Estou em São paulo
+* 📊  Junior Data Scientist
 * ✉️  Você pode entrar em contato comigo em [pedroramosdev@proton.me](mailto:pedroramosdev@proton.me)
 * 🧠  Estou aprendendo Java e R
 * 🤝  Estou aberto a colaborar em projetos de ciência de dados 
